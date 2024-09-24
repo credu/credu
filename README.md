@@ -1,27 +1,26 @@
-# Hi, I'm Jesus Mendoza 👋
+<h1 align="center">Hi, I'm Jesus Mendoza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
-- 🔭 I’m currently working on **my personal project**
-- 💬 Ask me about **JavaScript and Java**
-- ✏ I want to learn **[AWS](https://aws.amazon.com/)**
-- 🌱 Learning **everyday**
+-   🔭 I’m currently working on **my Portfolio**
+-   💬 Ask me about **JavaScript and Java**
+-   ✏ I want to learn **[AWS](https://aws.amazon.com/)**
+-   🌱 Learning **everyday**
+-   ⚡ Fun fact **At children I thought that the word "evil" was "bad" then I said to people "My English is evil"**
 
-## Skills
-
-Strong knowledge of languages:
-- JavaScript / TypeScript
-- Java
+## Languages and Tools:
 
 Stacks:
-- Back: Express.js, Spring Boot, SQL & NoSQL
-- Front: Bootstrap, Tailwind, React.js
-- Tools: GNU/Linux, Docker, Git
+
+-   Back: Express.js, Spring Boot, SQL & NoSQL
+-   Front: Bootstrap, Tailwind, React.js
+-   Tools: GNU/Linux, Docker, Git
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="48" height="48"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="tyepscript" width="48" height="48"/>
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="48" height="48"/>
   </a>
   <a href="https://adoptopenjdk.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/>
@@ -53,17 +52,13 @@ Stacks:
   <a href="https://linux.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="48" height="48"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="48" height="48"/>
+  </a>
 </p>
-
-
-#### Technologies
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=#ED8B00)](#)
-[![Java Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&labelColor=black&logo=Spring&logoColor=#6DB33F)](#)
-
 
 <br/>
 
