@@ -9,8 +9,6 @@
 
 ## Languages and Tools:
 
-Stacks:
-
 -   Back: Express.js, Spring Boot, SQL & NoSQL
 -   Front: Bootstrap, Tailwind, React.js
 -   Tools: GNU/Linux, Docker, Git
