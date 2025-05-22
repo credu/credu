@@ -5,7 +5,7 @@
 -   💬 Ask me about **JavaScript and Java**
 -   ✏ I want to learn **[AWS](https://aws.amazon.com/)**
 -   🌱 Learning **everyday**
--   ⚡ Fun fact **At children I thought that the word "evil" was "bad" then I said to people "My English is evil"**
+-   ⚡ Fun fact **When I was a child I thought that the word "evil" was "bad" then I said to people "My English is evil"**
 
 ## Languages and Tools:
 
